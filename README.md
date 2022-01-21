@@ -1,4 +1,4 @@
-# Concept-Builder
+# Conception-Builder
 Concept Builder is a two-tier client-server, multi-user software package that provides management of a structured database 
 through a predefined API of the database. A structured database provides an opportunity to construct tree-like hierarchical 
 structures - Concepts - that are created by architects (designers) that organize data of any subject area in accordance with 
