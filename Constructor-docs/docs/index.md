@@ -21,4 +21,5 @@
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # Стартовая страница
+		proto_h4.md  # Чассть II Основные понятия Глава 1 Прототипы позиций
         referat_h4.md  # Реферат
