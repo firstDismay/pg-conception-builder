@@ -10,4 +10,6 @@
 табличного пространства структурированной БД, совместно с API БД обеспечивает высокий уровень
 производительности для процессов доступа к данным Концепций.
 
+![Конструктор концепций](https://github.com/firstDismay/pg-conception-builder/blob/master/resources/schematics/Constructor.png)
+
 [Библиотека доступа к API](https://github.com/firstDismay/ManDI)
