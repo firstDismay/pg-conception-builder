@@ -39,6 +39,9 @@
 
 ![image](https://github.com/firstDismay/pg-conception-builder/assets/33662067/50984825-4294-412e-8133-c1d95bd4a124)
 
+Таким образом сущности с разными наборами свойств и их значений остаются связанными общим классом, что существенно облегчает их систематизацию и формирование аналитических данных:
+
+![image](https://github.com/firstDismay/pg-conception-builder/assets/33662067/fee36877-e751-40a7-bccd-bdf49eeca62c)
 
 
 [Библиотека доступа к API](https://github.com/firstDismay/ManDI)
